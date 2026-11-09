@@ -1,0 +1,66 @@
+# ==========================================
+# Virtual Environments (PRIMARY REQUIREMENT)
+# ==========================================
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ==========================================
+# Python Bytecode & Cache
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# ==========================================
+# Jupyter Notebook Checkpoints
+# ==========================================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# ==========================================
+# Scratch / Temporary Test Scripts
+# ==========================================
+scratch_inspect*.py
+test.png
+
+# ==========================================
+# Distribution / Packaging
+# ==========================================
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ==========================================
+# IDE & Editor Artifacts
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================================
+# OS Artifacts & Cache
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.matplotlib/
+
