@@ -1,0 +1,4 @@
+Model,Parameters,Best Epoch,Best Val Loss,Test Precision,Test Recall,Test F1,Test IoU
+Baseline (no skip),"6,979,681",30,0.0995,0.9493,0.9242,0.9366,0.8807
+U-Net (with skip),"7,763,041",34,0.0803,0.9581,0.9403,0.9491,0.9032
+Attention U-Net,"7,851,289",31,0.0834,0.9516,0.9549,0.9533,0.9107

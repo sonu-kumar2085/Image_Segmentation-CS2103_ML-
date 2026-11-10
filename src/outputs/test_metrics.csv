@@ -1,0 +1,6 @@
+Metric,Baseline,U-Net
+Precision,0.9493,0.9581
+Recall,0.9242,0.9403
+F1-Score,0.9366,0.9491
+IoU,0.8807,0.9032
+Threshold,0.5,0.5
